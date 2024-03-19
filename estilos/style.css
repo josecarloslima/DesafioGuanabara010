@@ -106,7 +106,7 @@ main h1 {
 
 main h2 {
     color: var(--cor4);
-    font-family: Verdana, sans-serif;
+    font-family: var(--fonte-android);
     font-size: 1.5em;
     font-weight: normal;
     text-indent: 40px;
